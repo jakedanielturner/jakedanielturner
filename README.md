@@ -1,6 +1,6 @@
 👋  Hi, I’m @jakedanielturner. I'm a student from the United Kingdom who is looking to move into software 
 development once I finish my current degree. I'm doing this through a mix of things like Codecademy and FreeCodeCamp,
-as well as trying to make my own little projects using the skills I am learning.
+as well as trying to make my own little projects using the skills I am learning. Some of these projects can be seen here on Github!
 
 📫  I can be reached here on Github, or at my email, jakedanielturner@gmail.com.
 
